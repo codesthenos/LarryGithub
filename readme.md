@@ -3,4 +3,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**codesthenos**
+**codesthenos** , Larry Plotter Lover
